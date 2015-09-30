@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易傳義合訂
-#+DATE: 2015-09-23 09:35:38
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 21:59:45.814694
+#+PROPERTY: ID KR1a0142
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1a0142_WYG_010-1a>¶
 欽定四庫全書¶
 　周易傳義合訂卷十¶
@@ -794,4 +796,3 @@
 　　(存乎其人者存乎人之徳行也黙/而成不言而信正是神而明之)¶
 　　右第十二章¶
 　周易傳義合訂卷十¶
-
